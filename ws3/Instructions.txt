@@ -1,0 +1,4 @@
+Execute jar-file (BlackJack Game)
+1.Run command prompt as an administrator.
+2.Type java -jar C:\pathtofile\blackjack.jar (path to the jar-file)
+3.Press enter
